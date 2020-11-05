@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Receitas de Máe
 
-You can use the [editor on GitHub](https://github.com/shyoutarou/Receitas_MAE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shyoutarou/Receitas_MAE/master/.github/001.png" alt="Image" width="100%" />
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Torta de Banana
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shyoutarou/Receitas_MAE/master/.github/002.png" alt="Image" width="100%" />
+</p>
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shyoutarou/Receitas_MAE/master/.github/003.png" alt="Image" width="100%" />
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shyoutarou/Receitas_MAE/master/.github/004.png" alt="Image" width="100%" />
+</p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shyoutarou/Receitas_MAE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
